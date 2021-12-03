@@ -1,5 +1,4 @@
 module.exports = {
-  publicPath: '/reg-form/',
   css: {
     loaderOptions: {
       sass: {
